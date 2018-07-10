@@ -9,7 +9,7 @@ puts ""
 puts "Step 1: Right arm out in front of you, palm facing do."
 
 # Step 2: FIXME
-puts Step 2: Left arm out in front of you, palm facing down."
+puts "Step 2: Left arm out in front of you, palm facing down."
 
 # Step 3: FIXME
 puts "Step 3: Turn your left palm up."
